@@ -1,4 +1,4 @@
-# Logistic-Regression
+# Logistic-Regression : classification model
 Problem Statement: Build machine learning model to predict if the person is diabetic or not.
 # Domain Analysis:
 Target: Outcome  (1: diabetic, 0: non-diabetic)
